@@ -21,7 +21,7 @@ SQLインジェクションの脆弱性を理解し、安全な実装方法を�
 
 ```bash
 # プロジェクトディレクトリに移動
-cd /Users/to-yuki/Documents/Job/git/githubcopilot
+cd SQLInjectionLab
 
 # PHPビルトインサーバーを起動
 php -S localhost:8000
