@@ -9,8 +9,9 @@ SQL InjectionDemo Lab
 
 SQLインジェクションの脆弱性を理解し、安全な実装方法を学ぶための学習用Webサイトです。
 
-- **脆弱版**: `vulnerable.php` - SQLインジェクションが可能
 - **安全版**: `index.php` - パラメータ化クエリで保護
+- - **脆弱版**: `vulnerable.php` - SQLインジェクションが可能
+- - **脆弱版2**: `vulnerable-fix.php` - SQLインジェクションが可能:演習で脆弱性を修正するためのファイル
 
 ## セットアップ
 
